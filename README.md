@@ -1,4 +1,4 @@
-# THIS IS CURRENTLY A COPY OF THE WINTER 2022 VERSION. ACTIVELY UNDER CONSTRUCTION...
+# THIS IS CURRENTLY BASED ON A COPY OF THE WINTER 2022 VERSION. ACTIVELY UNDER CONSTRUCTION...
 
 ## Welcome to STATS 315 / DATA SCI 315
 
@@ -7,7 +7,6 @@ This is an introductory deep learning course using the Python programming langua
 - **Textbook**: We will not follow any one textbook too closely. Here are a few references we might use:
   - _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola. An advanced text from research scientists at Amazon. It weaves together math, figures, and code in an interactive online resource available [here](https://d2l.ai/). Code examples are provided in three frameworks: MXNet, PyTorch and TensorFlow. 
   - _Deep Learning with Python (2nd edition)_ by Chollet. A solid hands-on guide oriented towards programmers from the creator of the Keras deep learning library. Ebook and print versions are available from [Manning Publications](https://www.manning.com/books/deep-learning-with-python-second-edition)  
-  - _Introduction to Deep Learning_ by Charniak. This undergraduate level textbook is perhaps the closest to this course in terms of prerequisites and the level at which deep learning is presented. It is available from [MIT Press](https://mitpress.mit.edu/books/introduction-deep-learning). Unfortunately this uses TensorFlow version 1 whereas we will use the more user friendly version 2.
   - _Deep Learning_ by Goodfellow, Bengio and Courville. Written by three top deep learning researchers, this comprehensive book is required reading if you want to pursue your study of deep learning at a more advanced level. Print version is available from [MIT Press](https://mitpress.mit.edu/books/deep-learning) and an online version is [here](https://www.deeplearningbook.org/).
   - _Neural Networks and Deep Learning_ by Nielsen. Uses the Theano library which is no longer popular. However, most of this [free online textbook](http://neuralnetworksanddeeplearning.com/) is focused on conceptual issues that will not become out-of-date anytime soon.
   
@@ -19,21 +18,19 @@ This is an introductory deep learning course using the Python programming langua
 
 ## Instructor Information
 
-_Note: Due to the omicron surge, all office hours will be held via zoom until further notice._
-
 **Name**: Ambuj Tewari  
-**Office Hours**: Tue and Thu, 11:30-1 ([zoom link](https://umich.zoom.us/j/93781998446))    
+**Office Hours**: TBD  
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
 
-**Name**: Vinod Raman (Lab 002 Th 8:30-10)  
-**Email**: [vkraman@umich.edu](mailto:vkraman@umich.edu)
+**Name**: TBD (Lab 00X DAY HH:MM-HH:MM)  
+**Email**: [TBD@umich.edu](mailto:TBD@umich.edu)
 
-**Name**: Yash Patel (Lab 003 Th 2:30-4)    
-**Email**: [yppatel@umich.edu](mailto:yppatel@umich.edu)
+**Name**: Yash Patel (Lab 00X DAY HH:MM-HH:MM)    
+**Email**: [TBD@umich.edu](mailto:TBD@umich.edu)
 
-**Lab webpage** (also has GSI office hours info): [https://yashpatel5400.github.io/stats315-winter2022lab/](https://yashpatel5400.github.io/stats315-winter2022lab/)
+**Lab webpage** (also has GSI office hours info): [TBD](TBD)
 
 ## Grading
 
@@ -54,7 +51,6 @@ Students may experience stressors that can impact both their academic experience
 
 ## Schedule
 
-IDL = _Introduction to Deep Learning_ by Charniak    
 DLPy = _Deep Learning with Python (2nd edition)_ by Chollet    
 DL = _Deep Learning_ by Goodfellow, Bengio and Courville    
 NNDL = _Neural Networks and Deep Learning_ by Nielsen    
