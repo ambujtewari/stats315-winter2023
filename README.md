@@ -8,13 +8,12 @@ This is an introductory deep learning course using the Python programming langua
   - _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola. An advanced text from research scientists at Amazon. It weaves together math, figures, and code in an interactive online resource available [here](https://d2l.ai/). Code examples are provided in three frameworks: MXNet, PyTorch and TensorFlow. 
   - _Deep Learning with Python (2nd edition)_ by Chollet. A solid hands-on guide oriented towards programmers from the creator of the Keras deep learning library. Ebook and print versions are available from [Manning Publications](https://www.manning.com/books/deep-learning-with-python-second-edition)  
   - _Deep Learning_ by Goodfellow, Bengio and Courville. Written by three top deep learning researchers, this comprehensive book is required reading if you want to pursue your study of deep learning at a more advanced level. Print version is available from [MIT Press](https://mitpress.mit.edu/books/deep-learning) and an online version is [here](https://www.deeplearningbook.org/).
-  - _Neural Networks and Deep Learning_ by Nielsen. Uses the Theano library which is no longer popular. However, most of this [free online textbook](http://neuralnetworksanddeeplearning.com/) is focused on conceptual issues that will not become out-of-date anytime soon.
   
 - **Undergraduate Courses on Deep Learning**: Many universities now offer an introductory deep learning course, e.g., [Berkeley](https://c.d2l.ai/berkeley-stat-157/), [CMU](https://deeplearning.cs.cmu.edu/), [MIT](http://introtodeeplearning.com/), [Stanford](https://cs230.stanford.edu/)
-- **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/516592) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
-- **Slack**: The course slack workspace is at [um-wn22-stats315.slack.com](https://um-wn22-stats315.slack.com) (requires UM login)
-- **Days and Times**: Tuesdays and Thursdays, 10-11:30
-- **Location**: [B1580 BUS](https://maps.studentlife.umich.edu/building/jeff-t-blau-hall) (for virtual lectures, you can find zoom link in canvas or slack)
+- **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/578445) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
+- **Slack**: The course slack workspace is at [TBD](TBD) (requires UM login)
+- **Days and Times**: Tuesdays and Thursdays, 1-2:30
+- **Location**: [WEISER 170](https://maps.studentlife.umich.edu/building/weiser-hall) (for virtual lectures, you can find zoom link in canvas or slack)
 
 ## Instructor Information
 
@@ -27,15 +26,17 @@ This is an introductory deep learning course using the Python programming langua
 **Name**: TBD (Lab 00X DAY HH:MM-HH:MM)  
 **Email**: [TBD@umich.edu](mailto:TBD@umich.edu)
 
-**Name**: Yash Patel (Lab 00X DAY HH:MM-HH:MM)    
+**Name**: TBD (Lab 00X DAY HH:MM-HH:MM)    
 **Email**: [TBD@umich.edu](mailto:TBD@umich.edu)
 
 **Lab webpage** (also has GSI office hours info): [TBD](TBD)
 
 ## Grading
 
-- Weekly quizzes (60%): We will only use your top 10 scores
-- Homeworks (40%): Four homework assignments with a substantial coding component
+- Canvas quizzes (20%): Will drop two lowest scores
+- Homeworks (30%): Assigned roughly every other week. Will drop one lowest score
+- Midterm Exam (20%): In class, timed, multiple choice, open book
+- Final Exam (30%): In class, timed, multiple choice, open book
 
 ## Academic Integrity
 
