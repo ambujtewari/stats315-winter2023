@@ -13,7 +13,7 @@ This is an introductory deep learning course using the Python programming langua
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/578445) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
 - **Slack**: The course slack workspace is at [TBD](TBD) (requires UM login)
 - **Days and Times**: Tuesdays and Thursdays, 1-2:30
-- **Location**: [170 WEISER](https://maps.studentlife.umich.edu/building/weiser-hall) (for virtual lectures, you can find zoom link in canvas or slack)
+- **Location**: [170 WEISER](https://maps.studentlife.umich.edu/building/weiser-hall) (links for virtual lectures, if any, will be saved in canvas and slack)
 
 ## Instructor Information
 
