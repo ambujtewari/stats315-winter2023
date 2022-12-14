@@ -23,11 +23,15 @@ This is an introductory deep learning course using the Python programming langua
 
 ## GSI Information
 
-**Name**: TBD (Lab 00X DAY HH:MM-HH:MM)  
-**Email**: [TBD@umich.edu](mailto:TBD@umich.edu)
+**Name**: Sahana Rayan (Lab 00X DAY HH:MM-HH:MM)  
+**Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
 
-**Name**: TBD (Lab 00X DAY HH:MM-HH:MM)    
-**Email**: [TBD@umich.edu](mailto:TBD@umich.edu)
+**Name**: Jacob (Jake) Trauger (Lab 00X DAY HH:MM-HH:MM)    
+**Email**: [jtrauger@umich.edu](jtrauger@umich.edu)
+
+**Name**: Mallory Wang (Lab 00X DAY HH:MM-HH:MM)  
+**Email**: [wmallory@umich.edu](mailto:wmallory@umich.edu)
+
 
 **Lab webpage** (also has GSI office hours info): [TBD](TBD)
 
