@@ -101,6 +101,4 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://ambujtewar
 24     | Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) <br/> V |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
 25     | Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
 &nbsp; | Apr 20 | <span style="color:red">HW 4 due</span> 
-&nbsp; |        | **Multivariable Calculus Boot Camp** |
-&nbsp; |        | Multivariable Calculus <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 18.4
 
