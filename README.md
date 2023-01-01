@@ -1,5 +1,3 @@
-# THIS IS CURRENTLY BASED ON A COPY OF THE WINTER 2022 VERSION. ACTIVELY UNDER CONSTRUCTION...
-
 ## Welcome to STATS 315 / DATA SCI 315
 
 This is an introductory deep learning course using the Python programming language and the TensorFlow deep learning library.
