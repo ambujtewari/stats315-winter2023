@@ -79,15 +79,15 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://ambujtewar
 07     | Feb 07 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
 08     | Feb 09 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 --     | Feb 14 | TBD | 
---     | Feb 16 | <span style="color:red">HW 1 due</span>
-09     | Feb 21 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
-10     | Feb 23 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
+--     | Feb 15 | <span style="color:red">HW 1 due</span>
+09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
+10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
+11     | Feb 23 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
 --     | Feb 28 | SPRING BREAK |
 --     | Mar 02 | SPRING BREAK |
-11     | Mar 07 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
-12     | Mar 09 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
-13     | Mar 14 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
-14     | Feb 23 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
+12     | Mar 07 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
+13     | Mar 09 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
+14     | Mar 14 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; |        | **Convolutional Neural Networks** |
 18     | Mar 16 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.1
 19     | Mar 21 | Convolutions for Images <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
