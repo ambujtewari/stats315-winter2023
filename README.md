@@ -64,34 +64,34 @@ _Note_: A "V" in the date column denotes a virtual lecture.
 
 Lecture No. | Date | Topic | Reading Assignment 
 ---         | ---  | ---   | ---               
-&nbsp; |       | **Basics** |
 01     | Jan 05 | Course logistics <br/> Introduction <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Chap. 1 <br/> DL, Chap. 1 <br/> D2L, Chap. 1
-02     | Jan 10 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
-03     | Jan 12 <br/> V | Regression <br/> Loss functions and gradient descent <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
-04     | Jan 17 <br/> V | Regression wrap-up <br/> Classification <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.3-4 <br/> D2L, Sec. 3.4.1
-05     | Jan 19 <br/> V | Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/)|  D2L, Sec. 3.4.2-4 <br/> D2L, Sec. 3.4.6.1 
-06     | Jan 24 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/)|  D2L, Sec. 3.4.6.2-3 <br/> D2L, Sec. 3.4.7
+&nbsp; |        | **Linear Algebra Boot Camp** |
+B1     | Jan 10 | Linear Algebra <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 18.1.1-2
+B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) <br/> <span style="color:red">HW 2 due</span> | D2L, Sec. 18.1.3-5 
+B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
+&nbsp; |       | **Basics** |
+02     | Jan 19 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
+03     | Jan 24 <br/> V | Regression <br/> Loss functions and gradient descent <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
+04     | Jan 26 <br/> V | Regression wrap-up <br/> Classification <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.3-4 <br/> D2L, Sec. 3.4.1
+05     | Jan 31 <br/> V | Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/)|  D2L, Sec. 3.4.2-4 <br/> D2L, Sec. 3.4.6.1 
+06     | Feb 02 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/)|  D2L, Sec. 3.4.6.2-3 <br/> D2L, Sec. 3.4.7
 &nbsp; |        | **TensorFlow/Keras** |
-07     | Jan 26 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
-08     | Jan 31 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
---     | Feb 02 | TBD | 
---     | Feb 07 | <span style="color:red">HW 1 due</span>
-09     | Feb 07 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
-10     | Feb 09 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
-11     | Feb 14 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
-12     | Feb 16 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
-13     | Feb 21 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
-14     | Feb 23 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
+07     | Feb 07 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
+08     | Feb 09 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
+--     | Feb 14 | TBD | 
+--     | Feb 16 | <span style="color:red">HW 1 due</span>
+09     | Feb 21 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
+10     | Feb 23 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
 --     | Feb 28 | SPRING BREAK |
 --     | Mar 02 | SPRING BREAK |
-&nbsp; |        | **Linear Algebra Boot Camp** |
-15     | Mar 07 | Linear Algebra <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 18.1.1-2
-16     | Mar 09 | Linear Algebra (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) <br/> <span style="color:red">HW 2 due</span> | D2L, Sec. 18.1.3-5 
-17     | Mar 14 | Linear Algebra (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
+11     | Mar 07 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
+12     | Mar 09 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
+13     | Mar 14 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
+14     | Feb 23 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; |        | **Convolutional Neural Networks** |
 18     | Mar 16 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.1
 19     | Mar 21 | Convolutions for Images <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
---    | Mar 23 | TBD | 
+--     | Mar 23 | TBD | 
 20     | Mar 28 | Pooling <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.5-6
 &nbsp; |        | **Deep Learning for Time Series** |
 --     | Mar 30 | TBD <br/> <span style="color:red">HW 3 due</span> |
