@@ -67,7 +67,7 @@ Lecture No. | Date | Topic | Reading Assignment
 01     | Jan 05 | Course logistics <br/> Introduction <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Chap. 1 <br/> DL, Chap. 1 <br/> D2L, Chap. 1
 &nbsp; |        | **Linear Algebra Boot Camp** |
 B1     | Jan 10 | Linear Algebra <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 18.1.1-2
-B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) <br/> <span style="color:red">HW 2 due</span> | D2L, Sec. 18.1.3-5 
+B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) <br/> <span style="color:red">HW 1 due</span> | D2L, Sec. 18.1.3-5 
 B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |       | **Basics** |
 02     | Jan 19 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
@@ -79,7 +79,7 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://ambujtewar
 07     | Feb 07 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
 08     | Feb 09 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 --     | Feb 14 | TBD | 
---     | Feb 15 | <span style="color:red">HW 1 due</span>
+--     | Feb 15 | <span style="color:red">HW 2 due</span>
 09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
 10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
 11     | Feb 23 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
