@@ -16,19 +16,20 @@ This is an introductory deep learning course using the Python programming langua
 ## Instructor Information
 
 **Name**: Ambuj Tewari  
-**Office Hours**: TBD  
+**Office Hours**: currently by appointment, regular hours to be posted soon  
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
 
-**Name**: Sahana Rayan (Lab 00X DAY HH:MM-HH:MM)  
-**Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
+**Name**: Unique Subedi (Lab 002 Thu 08:30-10:00)  
+**Email**: [subedi@umich.edu](mailto:subedi@umich.edu)
 
-**Name**: Jacob (Jake) Trauger (Lab 00X DAY HH:MM-HH:MM)    
+**Name**: Jacob (Jake) Trauger (Lab 003 Thu 2:30-4:00)    
 **Email**: [jtrauger@umich.edu](jtrauger@umich.edu)
 
-**Name**: Mallory Wang (Lab 00X DAY HH:MM-HH:MM)  
-**Email**: [wmallory@umich.edu](mailto:wmallory@umich.edu)
+**Name**: Sahana Rayan (Lab 004 Thu 4:00-5:30)  
+**Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
+
 
 
 **Lab webpage** (also has GSI office hours info): [TBD](TBD)
