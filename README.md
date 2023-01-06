@@ -21,13 +21,13 @@ This is an introductory deep learning course using the Python programming langua
 
 ## GSI Information
 
-**Name**: Unique Subedi (Lab 002 Thu 08:30-10:00)  
+**Name**: Unique Subedi (Lab 002 Thu 08:30-10:00 in WH335)  
 **Email**: [subedi@umich.edu](mailto:subedi@umich.edu)
 
-**Name**: Jacob (Jake) Trauger (Lab 003 Thu 2:30-4:00)    
+**Name**: Jacob (Jake) Trauger (Lab 003 Thu 2:30-4:00 in USB2234)    
 **Email**: [jtrauger@umich.edu](jtrauger@umich.edu)
 
-**Name**: Sahana Rayan (Lab 004 Thu 4:00-5:30)  
+**Name**: Sahana Rayan (Lab 004 Thu 4:00-5:30 in EH1084)  
 **Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
 
 
