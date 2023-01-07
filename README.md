@@ -77,11 +77,11 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 &nbsp; |        | **TensorFlow/Keras** |
 07     | Feb 07 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
 08     | Feb 09 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
---     | Feb 14 | TBD | 
+09     | Feb 14 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
 --     | Feb 15 | <span style="color:red">TBD due</span>
-09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
-10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
-11     | Feb 23 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
+10     | Feb 16 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
+11     | Feb 21 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
+--     | Feb 23 | <span style="color:red">MIDTERM EXAM</span>
 --     | Feb 28 | SPRING BREAK |
 --     | Mar 02 | SPRING BREAK |
 12     | Mar 07 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
@@ -100,4 +100,5 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 24     | Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) <br/> V |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
 25     | Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
 &nbsp; | Apr 20 | <span style="color:red">TBD due</span> 
+--     | Apr 26 | <span style="color:red">FINAL EXAM FROM 4 to 6 pm</span> 
 
