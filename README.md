@@ -65,7 +65,7 @@ Lecture No. | Date | Topic | Reading Assignment
 ---         | ---  | ---   | ---               
 01     | Jan 05 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1WOGiIZUbvj2UjRX3DXsArzvhjBmNAmvZ/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | DLPy, Chap. 1 <br/> DL, Chap. 1 <br/> D2L, Chap. 1
 &nbsp; |        | **Linear Algebra Boot Camp** |
-B1     | Jan 10 | Linear Algebra <br/> [notebook](https://drive.google.com/file/d/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf/view?usp=sharing) | D2L, Sec. 18.1.1-2
+B1     | Jan 10 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf/) | D2L, Sec. 18.1.1-2
 B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://drive.google.com/file/d/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf/view?usp=sharing) <br/> <span style="color:red">HW 1 due</span> | D2L, Sec. 18.1.3-5 
 B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://drive.google.com/file/d/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf/view?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |       | **Basics** |
