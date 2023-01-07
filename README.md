@@ -65,9 +65,9 @@ Lecture No. | Date | Topic | Reading Assignment
 ---         | ---  | ---   | ---               
 01     | Jan 05 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1WOGiIZUbvj2UjRX3DXsArzvhjBmNAmvZ/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | DLPy, Chap. 1 <br/> DL, Chap. 1 <br/> D2L, Chap. 1
 &nbsp; |        | **Linear Algebra Boot Camp** |
-B1     | Jan 10 | Linear Algebra <br/> [notebook](https://drive.google.com/file/d/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf/view?usp=sharing) | D2L, Sec. 18.1.1-2
-B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://drive.google.com/file/d/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf/view?usp=sharing) <br/> <span style="color:red">HW 1 due</span> | D2L, Sec. 18.1.3-5 
-B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://drive.google.com/file/d/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf/view?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
+B1     | Jan 10 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L, Sec. 18.1.1-2
+B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) <br/> <span style="color:red">TBD due</span> | D2L, Sec. 18.1.3-5 
+B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 18.1.9
 &nbsp; |       | **Basics** |
 02     | Jan 19 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
 03     | Jan 24 <br/> V | Regression <br/> Loss functions and gradient descent <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
@@ -78,7 +78,7 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://drive.goog
 07     | Feb 07 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
 08     | Feb 09 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 --     | Feb 14 | TBD | 
---     | Feb 15 | <span style="color:red">HW 2 due</span>
+--     | Feb 15 | <span style="color:red">TBD due</span>
 09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
 10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
 11     | Feb 23 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
@@ -93,11 +93,11 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://drive.goog
 --     | Mar 23 | TBD | 
 20     | Mar 28 | Pooling <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.5-6
 &nbsp; |        | **Deep Learning for Time Series** |
---     | Mar 30 | TBD <br/> <span style="color:red">HW 3 due</span> |
+--     | Mar 30 | TBD <br/> <span style="color:red">TBD due</span> |
 21     | Apr 04 <br/> V | A temperature-forecasting example <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 22     | Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 23     | Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
 24     | Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) <br/> V |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
 25     | Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
-&nbsp; | Apr 20 | <span style="color:red">HW 4 due</span> 
+&nbsp; | Apr 20 | <span style="color:red">TBD due</span> 
 
