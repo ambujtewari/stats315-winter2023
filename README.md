@@ -32,7 +32,7 @@ This is an introductory deep learning course using the Python programming langua
 
 
 
-**Lab webpage** (also has GSI office hours info): [TBD](TBD)
+**Lab webpage** (also has GSI office hours info): [link](https://docs.google.com/document/d/18vlonVMuDHjXH-fNCiqLvYFHnZhQerjssNHdeXQbKP8/edit?usp=sharing)
 
 ## Grading
 
