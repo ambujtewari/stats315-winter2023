@@ -67,7 +67,7 @@ Lecture No. | Date | Topic | Reading Assignment
 &nbsp; |        | **Linear Algebra Boot Camp** |
 B1     | Jan 10 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L, Sec. 22.1.1-2
 B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) <br/> <span style="color:red">TBD due</span> | D2L, Sec. 22.1.3-5 
-B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L, Sec. 18.1.6-7 <br/> D2L, Sec. 22.1.9
+B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L, Sec. 22.1.6-7 <br/> D2L, Sec. 22.1.9
 &nbsp; |       | **Basics** |
 02     | Jan 19 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
 03     | Jan 24 <br/> V | Regression <br/> Loss functions and gradient descent <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 3.1.1
