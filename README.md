@@ -63,7 +63,7 @@ _Note_: A "V" in the date column denotes a virtual lecture.
 
 Lecture No. | Date | Topic | Reading Assignment 
 ---         | ---  | ---   | ---               
-01     | Jan 05 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1WOGiIZUbvj2UjRX3DXsArzvhjBmNAmvZ/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | DLPy, Chap. 1 <br/> DL, Chap. 1 <br/> D2L, Chap. 1
+01     | Jan 05 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1WOGiIZUbvj2UjRX3DXsArzvhjBmNAmvZ/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | DLPy What is deep learning?, Chap. 1 <br/> DL Introduction, Chap. 1 <br/> D2L Introduction, Chap. 1
 &nbsp; |        | **Linear Algebra Boot Camp** |
 B1     | Jan 10 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.1-2
 B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) <br/> <span style="color:red">TBD due</span> | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
