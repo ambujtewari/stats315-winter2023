@@ -66,14 +66,16 @@ Lecture No. | Date | Topic | Reading Assignment
 01     | Jan 05 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1WOGiIZUbvj2UjRX3DXsArzvhjBmNAmvZ/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | DLPy What is deep learning?, Chap. 1 <br/> DL Introduction, Chap. 1 <br/> D2L Introduction, Chap. 1
 &nbsp; |        | **Linear Algebra Boot Camp** |
 B1     | Jan 10 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.1-2
-B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) <br/> <span style="color:red">TBD due</span> | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
+B2     | Jan 12 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
 B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 <br/> D2L Geometry and Linear Algebraic Operations, Sec. 22.1.9
 &nbsp; |       | **Basics** |
 02     | Jan 19 | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1xtMi5iVCi6BMqItnwv5zM-mUc_R_8BxP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
+&nbsp; | Jan 20 | <span style="color:red">HW 1 out</span> 
 03     | Jan 24 | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1mRMwgh6AE7nWpuF6mVHgF9q_tPjNx3Ai/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
 04     | Jan 26 | Regression wrap-up <br/> Classification <br/> [slides](https://docs.google.com/presentation/d/11PrJQaDWIY612EXm6vXAlBDL_kpogSMG/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regression, Sec. 3.1.3-4 <br/> D2L Softmax Regression, Sec. 4.1.1
 05     | Jan 31 | Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/)|  D2L Loss Function, Sec. 4.1.2
 06     | Feb 02 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/)|  D2L Information Theory Basics, Sec. 4.1.3
+&nbsp; | Feb 03 | <span style="color:red">HW 1 due</span> 
 &nbsp; |        | **TensorFlow/Keras** |
 07     | Feb 07 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
 08     | Feb 09 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
