@@ -99,7 +99,7 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 21     | Apr 04 | A temperature-forecasting example <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 22     | Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 23     | Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
-24     | Apr 13 <br/> V | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
+24     | Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
 25     | Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
 &nbsp; | Apr 20 | <span style="color:red">TBD due</span> 
 --     | Apr 26 | <span style="color:red">FINAL EXAM FROM 4 to 6 pm</span> 
