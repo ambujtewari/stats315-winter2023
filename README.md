@@ -94,7 +94,7 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 19     | Mar 23 | Convolutions for Images <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
 20     | Mar 28 | Pooling <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.5-6
 &nbsp; |        | **Deep Learning for Time Series** |
---     | Apr  | TBD <br/> <span style="color:red">TBD due</span> |
+--     | Mar 30 | TBD  |
 21     | Apr 04 | A temperature-forecasting example <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 22     | Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 23     | Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
