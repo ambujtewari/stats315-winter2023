@@ -82,7 +82,7 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 07     | Feb 09 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.1-4
 08     | Feb 14 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
-&nbsp; | Feb 03 | <span style="color:red">HW 2 due</span> 
+&nbsp; | Feb 17 | <span style="color:red">HW 2 due</span> 
 10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
 --     | Feb 23 | <span style="color:red">MIDTERM EXAM</span>
 --     | Feb 28 | SPRING BREAK |
