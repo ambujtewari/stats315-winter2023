@@ -78,7 +78,7 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 &nbsp; | Feb 03 | <span style="color:red">HW 1 due</span> 
 06     | Feb 07 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1VwYy7JXIc8xVImGnC0X0puIH8Z81944g/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) |  D2L Information Theory Basics, Sec. 4.1.3
 &nbsp; |        | **TensorFlow/Keras** |
-07     | Feb 09 | TensorFlow, Keras, Google Colab <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.1-4
+07     | Feb 09 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.1-4
 08     | Feb 14 | First steps with TensorFlow <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 3.5.3-4
 10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
