@@ -76,11 +76,13 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 &nbsp; | Jan 31 | Review of last two lectures |
 05     | Feb 02 | Classification <br/> Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://docs.google.com/presentation/d/1LC7rWMKJllHtqSv04T7afmNPfAsETUX6/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Softmax Regression, Sec. 4.1.1 <br/> D2L Loss Function, Sec. 4.1.2
 &nbsp; | Feb 03 | <span style="color:red">HW 1 due</span> 
+&nbsp; | Feb 04 | <span style="color:red">HW 2 out</span> 
 06     | Feb 07 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1VwYy7JXIc8xVImGnC0X0puIH8Z81944g/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) |  D2L Information Theory Basics, Sec. 4.1.3
 &nbsp; |        | **TensorFlow/Keras** |
 07     | Feb 09 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.1-4
 08     | Feb 14 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
+&nbsp; | Feb 03 | <span style="color:red">HW 2 due</span> 
 10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
 --     | Feb 23 | <span style="color:red">MIDTERM EXAM</span>
 --     | Feb 28 | SPRING BREAK |
@@ -100,6 +102,5 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 23     | Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
 24     | Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
 25     | Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
-&nbsp; | Apr 20 | <span style="color:red">TBD due</span> 
 --     | Apr 26 | <span style="color:red">FINAL EXAM FROM 4 to 6 pm</span> 
 
