@@ -83,24 +83,24 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 08     | Feb 14 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.1-2 <br/> DLPy, Sec. 2.4.4 
 09     | Feb 16 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
 &nbsp; | Feb 17 | <span style="color:red">HW 2 due</span> 
-10     | Feb 21 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
---     | Feb 23 | <span style="color:red">MIDTERM EXAM</span>
---     | Feb 28 | SPRING BREAK |
---     | Mar 02 | SPRING BREAK |
-11     | Mar 07 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
-12     | Mar 09 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
-13     | Mar 14 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
-14     | Mar 16 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
+&nbsp; | Feb 21 | STUDY DAY |
+&nbsp; | Feb 23 | <span style="color:red">MIDTERM EXAM</span>
+&nbsp; | Feb 28 | SPRING BREAK |
+&nbsp; | Mar 02 | SPRING BREAK |
+10     | MAr 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
+11     | Mar 09 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
+12     | Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
+13     | Mar 16 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
+14     | Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; |        | **Convolutional Neural Networks** |
-18     | Mar 21 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.1
-19     | Mar 23 | Convolutions for Images <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
-20     | Mar 28 | Pooling <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.5-6
+18     | Mar 23 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.1
+19     | Mar 28 | Convolutions for Images <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
+20     | Mar 30 | Pooling <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.5-6
 &nbsp; |        | **Deep Learning for Time Series** |
---     | Mar 30 | TBD  |
 21     | Apr 04 | A temperature-forecasting example <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 22     | Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 23     | Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
 24     | Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
 25     | Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
---     | Apr 26 | <span style="color:red">FINAL EXAM FROM 4 to 6 pm</span> 
+&nbsp; | Apr 26 | <span style="color:red">FINAL EXAM FROM 4 to 6 pm</span> 
 
