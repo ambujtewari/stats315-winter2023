@@ -87,7 +87,7 @@ B3     | Jan 17 | Linear Algebra (continued) <br/> [notebook](https://colab.rese
 &nbsp; | Feb 23 | <span style="color:red">MIDTERM EXAM</span>
 &nbsp; | Feb 28 | SPRING BREAK |
 &nbsp; | Mar 02 | SPRING BREAK |
-10     | MAr 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
+10     | Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
 11     | Mar 09 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
 12     | Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
 13     | Mar 16 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
