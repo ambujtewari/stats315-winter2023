@@ -82,13 +82,15 @@ Feb 07 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](http
 Feb 09 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.1-4 <br/> DLPy, Sec. 3.5.1-2
 Feb 14 <br/> V |First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 2.4.4 
 Feb 16 <br/> V | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
-Feb 17 | <span style="color:red">HW 2 due</span> 
+Feb 17 | <span style="color:red">HW 2 due</span>
+Feb 18 | <span style="color:red">HW 3 out</span> 
 Feb 21 | STUDY DAY |
 Feb 23 | <span style="color:red">MIDTERM EXAM</span>
 Feb 28 | SPRING BREAK |
 Mar 02 | SPRING BREAK |
 Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 2.1
 Mar 09 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
+Mar 10 | <span style="color:red">HW 3 due</span> 
 Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
 Mar 16 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
 Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
