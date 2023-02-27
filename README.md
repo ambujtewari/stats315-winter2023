@@ -16,7 +16,7 @@ This is an introductory deep learning course using the Python programming langua
 ## Instructor Information
 
 **Name**: Ambuj Tewari  
-**Office Hours**: currently by appointment, regular hours to be posted soon  
+**Office Hours**: 45 minutes immediately before and after the lecture
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
