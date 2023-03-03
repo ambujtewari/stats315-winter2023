@@ -91,9 +91,9 @@ Mar 02 | SPRING BREAK |
 Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1vt7UNLxL_3LzkkqQNsQ9AmRYM9XhiJIY?usp=sharing) | DLPy, Sec. 2.1
 Mar 09 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iB5ieKjSdKfX2rkZcJdcBRz2mzc8piSn?usp=sharing) | DLPy, Sec. 4.1
 Mar 10 | <span style="color:red">HW 3 due</span> 
-Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
-Mar 16 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
-Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
+Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://colab.research.google.com/drive/1iUxQlrR0MlyC7S-6ZJyoeKjWXh9NZrva?usp=sharing) | DLPy, Sec. 4.3
+Mar 16 | Generalization <br/> Evaluating ML models <br/> [notebook](https://colab.research.google.com/drive/1phLaDNsn9trR6mxJnhfj_KyDx6p39GC3?usp=sharing) | DLPy, Sec. 5.1-2
+Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1mzEkrkMU0EOgvKfIvzWd1PSXgrF6BMvx?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
 Mar 23 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.1
 Mar 28 | Convolutions for Images <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
