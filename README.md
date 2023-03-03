@@ -89,7 +89,7 @@ Feb 23 | <span style="color:red">MIDTERM EXAM</span>
 Feb 28 | SPRING BREAK |
 Mar 02 | SPRING BREAK |
 Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1vt7UNLxL_3LzkkqQNsQ9AmRYM9XhiJIY?usp=sharing) | DLPy, Sec. 2.1
-Mar 09 | Getting started with NNs: Classification IMDB <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.1
+Mar 09 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iB5ieKjSdKfX2rkZcJdcBRz2mzc8piSn?usp=sharing) | DLPy, Sec. 4.1
 Mar 10 | <span style="color:red">HW 3 due</span> 
 Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 4.3
 Mar 16 | Generalization <br/> Evaluating ML models <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 5.1-2
