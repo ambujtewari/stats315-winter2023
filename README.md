@@ -95,9 +95,9 @@ Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebo
 Mar 16 | Generalization <br/> Evaluating ML models <br/> [notebook](https://colab.research.google.com/drive/1phLaDNsn9trR6mxJnhfj_KyDx6p39GC3?usp=sharing) | DLPy, Sec. 5.1-2
 Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1mzEkrkMU0EOgvKfIvzWd1PSXgrF6BMvx?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
-Mar 23 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.1
-Mar 28 | Convolutions for Images <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
-Mar 30 | Pooling <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | D2L, Sec. 6.5-6
+Mar 23 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1PhQzzdkYNkrjVmegwSQSgh_yGHyAr7xx?usp=sharing) | D2L, Sec. 6.1
+Mar 28 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1guVHPlmTJswMiN2XB_KvSBingDuo6bdX?usp=sharing) <br/> Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/14U7RSZcpQevXzjuN9QDqRFGKUPBQk8l2?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/160xpb1L7Ny10t5I6SFIjsfjijw51ai-k?usp=sharing) | D2L, Sec. 6.2 <br/> D2L, Sec. 6.3-4
+Mar 30 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1oSHQD8HR7MYKD--8IWPqsxQTNOhTNd6L?usp=sharing) <br/> LeNet <br/> [notebook](https://colab.research.google.com/drive/1rHKxVf-UmSFlBNKyIROuv13XQMYyTLcV?usp=sharing) | D2L, Sec. 6.5-6
 &nbsp; | **Deep Learning for Time Series** |
 Apr 04 | A temperature-forecasting example <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
