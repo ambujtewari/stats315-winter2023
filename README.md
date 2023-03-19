@@ -103,6 +103,6 @@ Mar 30 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1oSHQD
 Apr 04 | A temperature-forecasting example <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
 Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
-Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) |  D2L, Sec. 8.4 <br/> D2L, Sec. 8.7.1
+Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) |  D2L, Sec. 9.4 <br/> D2L, Sec. 9.7.1
 Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
 Apr 26 | <span style="color:red">FINAL EXAM FROM 4 to 6 pm</span> 
