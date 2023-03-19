@@ -101,7 +101,7 @@ Mar 28 | Convolutions for Images <br/> [notebook](https://colab.research.google.
 Mar 30 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1oSHQD8HR7MYKD--8IWPqsxQTNOhTNd6L?usp=sharing) <br/> LeNet <br/> [notebook](https://colab.research.google.com/drive/1rHKxVf-UmSFlBNKyIROuv13XQMYyTLcV?usp=sharing) | D2L, Sec. 7.5-6
 &nbsp; | **Deep Learning for Time Series** |
 Apr 04 | A temperature-forecasting example <br/> [notebook](https://colab.research.google.com/drive/16neyR5N2oXVU5AWqYU6EIvRMCcL4dCoX?usp=sharing) | DLPy, Sec. 10.2
-Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.2
+Apr 06 | A temperature-forecasting example (continued) <br/> [notebook](https://colab.research.google.com/drive/16neyR5N2oXVU5AWqYU6EIvRMCcL4dCoX?usp=sharing) | DLPy, Sec. 10.2
 Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
 Apr 13 | Recurrent Neural Networks <br/> [notebook](https://ambujtewari.github.io/stats315-winter2023/) |  D2L, Sec. 9.4 <br/> D2L, Sec. 9.7.1
 Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://ambujtewari.github.io/stats315-winter2023/) |
