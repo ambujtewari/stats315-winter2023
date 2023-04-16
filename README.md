@@ -106,5 +106,5 @@ Apr 06 <br/> V | A temperature-forecasting example (continued) <br/> [notebook](
 Apr 11 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://colab.research.google.com/drive/16neyR5N2oXVU5AWqYU6EIvRMCcL4dCoX?usp=sharing) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
 Apr 13 | Recurrent Neural Networks <br/> [notebook](https://colab.research.google.com/drive/1isECcLw7lhs27MNx0JP567KTZ3mkEXqf?usp=sharing) |  D2L, Sec. 9.4
 Apr 14 | <span style="color:red">HW 5 due</span>
-Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://docs.google.com/presentation/d/1pqBOMMOmci7kDMg0q8HxKXwCruyPhOa8/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) |
+Apr 18 | Course Conclusion <br/> Ask Me Anything! <br/> [slides](https://docs.google.com/presentation/d/1pqBOMMOmci7kDMg0q8HxKXwCruyPhOa8/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | no assigned reading <br/> not part of syllabus <br/> not recorded
 Apr 26 | <span style="color:red">FINAL EXAM FROM 4 to 6 pm</span> 
